@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/freefunds/!svn/ver/110/trunk/protected/modules/rbac/components
+END
+RBACAccessVerifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/freefunds/!svn/ver/109/trunk/protected/modules/rbac/components/RBACAccessVerifier.php
+END
+RBACBaseController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/freefunds/!svn/ver/108/trunk/protected/modules/rbac/components/RBACBaseController.php
+END
+RBACTree.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/freefunds/!svn/ver/110/trunk/protected/modules/rbac/components/RBACTree.php
+END
+RBACDisplayHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/freefunds/!svn/ver/94/trunk/protected/modules/rbac/components/RBACDisplayHelper.php
+END

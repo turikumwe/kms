@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/freefunds/!svn/ver/111/trunk/protected/modules/rbac/data
+END
+rbac.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/freefunds/!svn/ver/103/trunk/protected/modules/rbac/data/rbac.css
+END
+schema-rbac.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/freefunds/!svn/ver/111/trunk/protected/modules/rbac/data/schema-rbac.sql
+END
+readme-install.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/freefunds/!svn/ver/111/trunk/protected/modules/rbac/data/readme-install.php
+END

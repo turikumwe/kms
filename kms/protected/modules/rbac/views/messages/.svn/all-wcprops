@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/messages
+END
+_formErrors.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/messages/_formErrors.php
+END
+_formInfos.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/messages/_formInfos.php
+END
+_formSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/messages/_formSuccess.php
+END
+_formWarnings.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/messages/_formWarnings.php
+END

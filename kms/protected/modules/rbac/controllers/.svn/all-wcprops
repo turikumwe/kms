@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/freefunds/!svn/ver/109/trunk/protected/modules/rbac/controllers
+END
+DefaultController.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/freefunds/!svn/ver/88/trunk/protected/modules/rbac/controllers/DefaultController.php
+END
+RbacController.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/freefunds/!svn/ver/109/trunk/protected/modules/rbac/controllers/RbacController.php
+END
+AssignmentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/freefunds/!svn/ver/104/trunk/protected/modules/rbac/controllers/AssignmentController.php
+END

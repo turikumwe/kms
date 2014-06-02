@@ -1,0 +1,77 @@
+10
+
+dir
+112
+http://freefunds.svn.sourceforge.net/svnroot/freefunds/trunk/protected/modules/rbac
+http://freefunds.svn.sourceforge.net/svnroot/freefunds
+
+
+
+2010-11-02T14:36:40.659064Z
+111
+stb-webdev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dd36adfd-dfd3-4cd0-b06f-7a0f8ff35268
+
+views
+dir
+
+models
+dir
+
+RbacModule.php
+file
+
+
+
+
+2012-12-18T12:12:24.000000Z
+479c2ebd0d106ff758c4f8869dd19954
+2010-11-02T14:36:40.659064Z
+111
+stb-webdev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1202
+
+components
+dir
+
+controllers
+dir
+
+data
+dir
+

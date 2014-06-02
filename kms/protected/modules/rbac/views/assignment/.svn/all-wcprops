@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/freefunds/!svn/ver/104/trunk/protected/modules/rbac/views/assignment
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/assignment/edit.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/assignment/index.php
+END
+_editForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/freefunds/!svn/ver/104/trunk/protected/modules/rbac/views/assignment/_editForm.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/freefunds/!svn/ver/102/trunk/protected/modules/rbac/views/assignment/manage.php
+END
+_listForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/freefunds/!svn/ver/104/trunk/protected/modules/rbac/views/assignment/_listForm.php
+END
+_treeForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/freefunds/!svn/ver/96/trunk/protected/modules/rbac/views/assignment/_treeForm.php
+END

@@ -1,0 +1,73 @@
+.invoice_data {
+    text-align: left;
+    border: 3px solid;
+}
+
+.top_header {
+    border: 3px solid #000;
+}
+.bottom_part {
+    border: 3px solid #000;
+}
+.top_header_td {
+    border-right: 3px solid #000;
+}
+.sold_data {
+    border-right: 3px solid #000;
+    padding: 8px 20px 20px 4px;
+    vertical-align: top;
+}
+.sold_data_last_td {
+    border: 8px 20px 20px 4px;
+    vertical-align: top;
+}
+.tax_info {
+    border: 3px solid #000;
+    min-height: 15px;
+    width: 250px;
+    float: right;
+    padding: 5px 5px 5px 5px;
+}
+.com_message {
+    vertical-align:middle;
+    min-height: 15px;
+    min-width: 250px;
+    padding: 5px 5px 5px 5px;
+}
+.payment_info {
+    min-height: 30px;
+    width: 250px;
+    float: left;
+    padding: 5px 5px 5px 5px;
+}
+.signature_info {
+    min-height: 15px;
+    width: 250px;
+    float: right;
+    padding: 5px 5px 5px 5px;
+}
+.invoice_to {
+    min-height: 15px;
+    min-width: 250px;
+    float: right;
+    padding: 5px 5px 5px 5px;
+}
+.hr_separator {
+    width: 0px;
+}
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+.invoice_content {
+    margin: 20px;
+}
+
+.address_info {
+    float: left; 
+    padding: 5px; 
+    text-align: left; 
+    font-weight: bold; 
+    font-size: 15px;
+}

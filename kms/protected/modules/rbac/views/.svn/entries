@@ -1,0 +1,43 @@
+10
+
+dir
+112
+http://freefunds.svn.sourceforge.net/svnroot/freefunds/trunk/protected/modules/rbac/views
+http://freefunds.svn.sourceforge.net/svnroot/freefunds
+
+
+
+2010-10-31T12:40:03.234910Z
+104
+stb-webdev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dd36adfd-dfd3-4cd0-b06f-7a0f8ff35268
+
+layouts
+dir
+
+default
+dir
+
+messages
+dir
+
+rbac
+dir
+
+assignment
+dir
+
